@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Laravel**, **React**
 - 🔭 I’m currently working on a React dashboard integrated with Laravel backend.
 - 🌱 Learning advanced React patterns and deepening my data science skills.
 - 👯 I’m open to collaborating on open-source projects in web dev and data scraping.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iamrazakirmani/) | [Email](mehmood.kirmanni@gmail.com)
 
 ---
 
@@ -29,28 +29,13 @@ I'm a passionate **Full-Stack Developer** specializing in **Laravel**, **React**
 
 ---
 
-## 📊 GitHub Stats
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedmehmoodraza&show_icons=true&theme=radical)
 
----
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehmoodraza&layout=compact&theme=radical)
-
----
-
-## 📝 Latest Blog Posts (Optional)
-<!-- You can add blog posts or link here -->
-
----
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [https://www.linkedin.com/in/iamrazakirmani/)
+- Email: mehmood.kirmani@gmail.com
 
 ---
 
